@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:9370DB,100:6A5ACD&animation=twinkling&section=header&text=indigo+%3C3&fontColor=ffffff&fontSize=65">
+    <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:9370DB,100:6A5ACD&animation=fadeIn&section=header&text=indigo+%3C3&fontColor=ffffff&fontSize=65">
 </p>
 
 ## About Me  
@@ -13,12 +13,17 @@
 </p>
 
 ## 🔴 What I Do
-Red team captain who loves breaking Active Directory, building C2 infrastructure, and teaching teammates how to hack things. When I'm not leading Penn State's red team or doing penetration tests, I'm probably figuring out new ways to compromise networks.
+- Red team captain at Penn State
+- I <3 Active Directory exploitation 
+- Building C2 infrastructure and attack chains
+- Teaching teammates how to hack things
+- Penetration testing and security assessments
+- Probably figuring out new ways to compromise networks
 
-## 🛠️ Tools I Use
-**Red Team:** Impacket, Bloodhound, Sliver C2, Burpsuite, Metasploit, Hydra, John  
-**Blue Team:** Netskope, Fidelis, OpenSearch, YARA  
-**Certs:** Security+, A+, SC-900
+## 🐛 My CVE
+**CVE-2025-49138** - Local File Inclusion vulnerability in HAX CMS PHP  
+Found an authenticated LFI that lets low-privileged users read arbitrary server files by manipulating the location field in site.json  
+[View on NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-49138)
 
 ## 🏆 Competition Results
 - **CPTC Global 3rd Place (2024)** - Team Captain
@@ -34,9 +39,7 @@ Red team captain who loves breaking Active Directory, building C2 infrastructure
     <a href="https://linkedin.com/in/jonathan-skeete" target="_blank"><img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/static/v1?style=for-the-badge&message=Jonathan+Skeete&color=0077B5&logo=linkedin-white&logoColor=FFFFFF&label="></a>
 </p>
 
-<p align="center"> 
-    <img src="https://capsule-render.vercel.app/api?&type=waving&color=0:9370DB,100:6A5ACD&animation=twinkling&section=footer">
-</p>
+
 
 ![indigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=indigo&count_private=true&show_icons=true&theme=dark)
 <br>
